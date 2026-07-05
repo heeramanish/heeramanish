@@ -26,5 +26,4 @@
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/heera_manish/
 [linkedin]: https://www.linkedin.com/in/manish-heera-a8bb31129/
